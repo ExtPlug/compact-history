@@ -8,8 +8,10 @@ Ctrl+F-ing!
 
 ## Installation
 
-You can install this plugin by going to your ExtPlug settings menu, pressing "Install Plugin",
-and entering this Plugin URL:
+If you do not have ExtPlug yet, get it [here](https://extplug.github.io).
+
+You can install this plugin by going to your ExtPlug settings menu, pressing
+"Install Plugin", and entering this Plugin URL
 
 ```
 https://extplug.github.io/compact-history/build/compact-history.js;extplug/compact-history/main
