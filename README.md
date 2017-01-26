@@ -1,6 +1,8 @@
 Compact History
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/extplug/compact-history.svg)](https://greenkeeper.io/)
+
 ExtPlug plugin that shows a lot more history entries on one screen. Useful for
 Ctrl+F-ing!
 
