@@ -3,6 +3,13 @@
   "version": "1.0.1",
   "license": "MIT",
   "description": "ExtPlug plugin that shows a lot more history entries on one screen.",
+  "author": "ReAnna <renee@kooi.me>",
+  "repository": "extplug/compact-history",
+  "main": "build/compact-history.js",
+  "files": [
+    "build",
+    "src"
+  ],
   "keywords": [
     "extplug-plugin"
   ],
