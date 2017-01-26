@@ -14,6 +14,7 @@
     "extplug-plugin"
   ],
   "scripts": {
+    "prepublish": "npm run build -- --minify",
     "build": "extplug bundle src/main.js build/compact-history.js"
   },
   "devDependencies": {
